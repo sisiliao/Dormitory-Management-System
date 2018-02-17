@@ -12,5 +12,5 @@ __The core skills used for this project are:__
 * HTML, CSS, JAVASCRIPT
 
 __Preview__
-![login_page](C:\Users\SiSi\Desktop\d2.png)
-![page](C:\Users\SiSi\Desktop\d1.png)
+![login_page](/d2.png)
+![page](/d1.png)
