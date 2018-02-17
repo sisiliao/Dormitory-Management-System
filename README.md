@@ -11,6 +11,7 @@ __The core skills used for this project are:__
 * ORACLE DATABASE PLATFORM, SQL
 * HTML, CSS, JAVASCRIPT
 
-__Preview__
-![login_page](/d2.png)
-![page](/d1.png)
+# Preview
+> ![login_page](/d2.png)
+
+> ![page](/d1.png)
